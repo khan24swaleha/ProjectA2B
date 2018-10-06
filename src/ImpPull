@@ -1,0 +1,6 @@
+class impPull
+{
+public static void main(String args[]){
+System.out.println("Import the file from git coz it is created in Git not in eclipse");
+}
+}
